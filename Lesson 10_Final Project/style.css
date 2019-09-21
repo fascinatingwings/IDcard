@@ -1,0 +1,24 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+    }
+body {
+     text-align: center;
+     background-color: teal;
+     font-family: 'Trebuchet MS', Arial, Helvetica;
+}
+#idCard {
+    margin-left: 35em;
+    margin-top: 5em;
+    text-align: left;
+    border: 5px solid black;
+    height: 14em;
+    border-radius: 2em;
+    width: 25em;
+    background-color: beige;     
+    }
+#postFullName {
+    font-size: 30px;
+    text-align: center;
+}
